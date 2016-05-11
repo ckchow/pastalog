@@ -128,7 +128,7 @@ body{
 }
 
 .gridMark {
-    @extend .h3;
+    @extend .h3 !optional;
     color: $base1;
 }
 
